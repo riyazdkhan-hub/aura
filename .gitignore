@@ -1,0 +1,8 @@
+node_modules
+.next
+.env
+.env.local
+.netlify
+.vercel
+npm-debug.log*
+pnpm-debug.log*
